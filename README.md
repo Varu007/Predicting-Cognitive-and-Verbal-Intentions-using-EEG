@@ -1,4 +1,3 @@
 # Predicting-Cognitive-and-Verbal-Intentions-using-EEG
-[Download the PDF](docs/paper.pdf)
-[Download the Word document](docs/paper.docx)
-[![Preview](docs/preview.png)](docs/paper.pdf)
+[Download the PDF](docs/Predicting-Cognitive-and-Verbal-Intentions-using-EEG-paper.pdf)
+[![Preview](docs/preview.png)](docs/Predicting-Cognitive-and-Verbal-Intentions-using-EEG-paper.pdf)
